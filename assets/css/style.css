@@ -17,7 +17,7 @@ body {
   line-height: 1.5;
 }
 
-/*------header and nav------*/
+/*------header------*/
 
 header {
   padding: 15px 50px 15px 0;
@@ -162,7 +162,9 @@ nav a:last-child {
 }
 
 .flex-item:hover {
-  background-color: rgba(8, 8, 8, 0.24);
+  color: rgb(54, 76, 189);
+  opacity: 0.5;
+  transition: all 0.35s ease-in;
 }
 
 .flex-item div {
@@ -235,7 +237,7 @@ nav a:last-child {
     width: 100%;
     padding: 5px;
     margin-bottom: 10px;
-    font-size:8vw;
+    font-size: 8vw;
   }
 
   header nav {
