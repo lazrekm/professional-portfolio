@@ -203,24 +203,24 @@ nav a:last-child {
   color: var(--second);
 }
 
-.run-buddy {
-  background-image: url("../images/GASTON-TREES-1024x498.jpg");
+.weather-dashboard {
+  background-image: url("../images/5-Best-Free-and-Paid-Weather-APIs-2019-e1587582023501.png");
 }
 
-.led-wall {
-  background-image: url("../images/ledwall.PNG");
+.pass-gen {
+  background-image: url("../images/password-900.jpg");
 }
 
-.calculator {
-  background-image: url("../images/stockphoto-gty-rc-210625_1624628528277_hpMain_16x9_1600.jpg");
+.code-quiz {
+  background-image: url("../images/94703.webp");
 }
 
 .horiseon {
   background-image: url("../images/01-html-css-git-homework-demo.png");
 }
 
-.surf-report {
-  background-image: url("../images/Experiences_Beach.jpg");
+.day-plan {
+  background-image: url("../images/WeeklyDayPlannerInside.jpg");
 }
 
 /*------media queries------*/
