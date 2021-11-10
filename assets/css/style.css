@@ -163,7 +163,7 @@ nav a:last-child {
 .flex-item:hover {
   color: rgb(54, 76, 189);
   opacity: 0.5;
-  transition: all 0.35s ease-in;
+  transition: all 0.25s ease-in;
 }
 
 .flex-item div {
@@ -221,6 +221,14 @@ nav a:last-child {
 
 .day-plan {
   background-image: url("../images/WeeklyDayPlannerInside.jpg");
+}
+
+.project1{
+  background-image: url("../images/Capturej.PNG");
+}
+
+.project2{
+  background-image: url("../images/Capture.PNG");
 }
 
 /*------media queries------*/
