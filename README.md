@@ -4,15 +4,15 @@ Showcase of projects and experience using various languages.
 
 ## Screenshots
 
-![alt text](./assets/images/capture1.png)
+![capture1](./assets/images/capture1.PNG)
 
-![alt text](./assets/images/capture2.png)
+![capture1](./assets/images/Capture2.PNG)
 
-![alt text](./assets/images/capture3.png)
+![capture1](./assets/images/capture3.PNG)
 
-![alt text](./assets/images/capture4.png)
+![capture1](./assets/images/capture4.PNG)
 
-![alt text](./assets/images/capture5.png)
+![capture1](./assets/images/capture5.PNG)
 
 ### Deployed URL:
 https://lazrekm.github.io/professional-portfolio/
