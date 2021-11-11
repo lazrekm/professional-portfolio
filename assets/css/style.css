@@ -223,15 +223,15 @@ nav a:last-child {
   background-image: url("../images/WeeklyDayPlannerInside.jpg");
 }
 
-.project1{
+.project1 {
   background-image: url("../images/Capturej.PNG");
 }
 
-.project2{
+.project2 {
   background-image: url("../images/Capture.PNG");
 }
 
-/*------media queries------*/
+/*----media queries----*/
 
 @media screen and (max-width: 980px) {
   header {
